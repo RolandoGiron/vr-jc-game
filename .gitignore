@@ -1,0 +1,5 @@
+.gitignore
+*.exe
+# Instalador de Unity (binario grande, no versionar)
+Instalador Unity/
+*.exe
